@@ -1,0 +1,18 @@
+{
+  "name": "btob",
+  "version": "1.0.0",
+  "description": "This is project by Ishaan and team.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishaan Gaba",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22",
+    "request": "^2.88.2"
+  }
+}
